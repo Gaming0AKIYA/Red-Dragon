@@ -19,44 +19,58 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+🔥
+http://wa.me//+94767343564😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+9475776182'] //Owner number in aive msg
-global.premium = ['+9475776182'] //Owner Number info
-global.ownernomer = '+9475776182' //Owner Number <<<
+global.owner = ['+94767973534'] //Owner number in aive msg
+global.premium = ['+94767973534'] //Owner Number info
+global.ownernomer = '+94767973534' //Owner Number <<<
 
-global.ownername = '☬Gaming AKIYA࿐' //Owner Name
-global.botname = ' ☬Gaming AKIYA࿐' //Bot Name
+global.ownername = '☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+' //Owner Name
+global.botname = ' ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+' //Bot Name
 
-global.button = '☬Gaming AKIYA࿐' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UC69O34ynMDdjp4Nd4ntGqEQ' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬Gaming AKIYA࿐' //Bot Pacage Name
-global.author = '😎Gaming AKIYA❯❯' //Author Name
+global.packname = '☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠' //Bot Pacage Name
+global.author = '😎☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = '☬Gaming AKIYA࿐' //Session Name!
-global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.sessionName = '☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠' //Session Name!
+global.sp = '🤡' //A Charactor
+global.dragonemoji = '🤡' // Menu emoji
+global.footer = '☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://youtu.be/vlcSMBqldfs' //Github Account!
+global.ig = 'https://youtube.com/channel/UCYqsy4l8eHh0kFVF6IUSuiQ' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅ ☬Gaming AKIYA࿐',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'Done ✅ ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    admin: 'Only Admins can use it!😉☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    botAdmin: 'Bot wants to be an Admin😥☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    owner: 'Only Owner can use this!😉☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    group: 'Feature Used Only For Groups!☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    private: 'This Features Only For Private Chat!☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    bot: 'This Feature Is Only For Bot😝☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    wait: '👉👈Pleas Wait...☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    error: 'Error!!! Maybe Api Key Is Expired🤔!☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠
+',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
